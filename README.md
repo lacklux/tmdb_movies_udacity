@@ -1,4 +1,4 @@
-# investigation a tmdb-movie dataset
+# investigating a tmdb-movie dataset
 
 This dataset contain 10,876 dataset of tmd-movies, with 21 features. the picture below is the first 3 data of the dataset![1659197280198](image/README/1659197280198.png)
 
